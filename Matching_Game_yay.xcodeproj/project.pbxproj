@@ -517,6 +517,7 @@
 				FD940D361DBDB44600FC67A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD940D371DBDB44600FC67A6 /* Build configuration list for PBXNativeTarget "Matching_Game_yayTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +526,7 @@
 				FD940D391DBDB44600FC67A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD940D3A1DBDB44600FC67A6 /* Build configuration list for PBXNativeTarget "Matching_Game_yayUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +535,7 @@
 				FD940D3C1DBDB44600FC67A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
